@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4366744</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-14 20:38:07.183037+00:00</created>
+      <updated>2026-08-14 20:48:20.156123+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4364603</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/4366744/dataset/export/api/jobs/4366744</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>research6</username>
+        <email>tiatarek97@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Bicycle</name>
+          <color>#004040</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>MotorCycle</name>
+          <color>#80a0a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Car</name>
+          <color>#2080c0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Person</name>
+          <color>#c06060</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-08-14 20:49:45.855535+00:00</dumped>
+  </meta>
+  <image id="0" name="pexels-madknoxxdeluxe-30674603.jpg" width="9504" height="6336">
+    <box label="Car" source="manual" occluded="0" xtl="3834.60" ytl="2882.90" xbr="6688.90" ybr="5021.10" z_order="0">
+    </box>
+    <box label="Bicycle" source="manual" occluded="0" xtl="7310.22" ytl="3928.60" xbr="7901.09" ybr="5337.64" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="7098.80" ytl="2810.83" xbr="8078.10" ybr="5145.20" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="8335.29" ytl="2949.32" xbr="9504.00" ybr="5897.01" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="9119.22" ytl="1984.80" xbr="9448.61" ybr="2623.26" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="9200.55" ytl="2224.73" xbr="9504.00" ybr="3029.92" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="8830.49" ytl="2151.53" xbr="9184.29" ybr="3542.31" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="8167.64" ytl="1992.94" xbr="8769.49" ybr="3330.84" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="8220.50" ytl="2228.80" xbr="8867.09" ybr="3672.44" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="7297.39" ytl="1655.41" xbr="7992.78" ybr="3204.78" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="6148.50" ytl="1330.28" xbr="6699.43" ybr="3116.85" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="5833.69" ytl="1204.35" xbr="6321.65" ybr="2880.74" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="5267.02" ytl="1338.15" xbr="5770.72" ybr="2943.70" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="5356.11" ytl="1095.11" xbr="5896.33" ybr="1578.76" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="4906.39" ytl="1083.79" xbr="5392.88" ybr="1618.36" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="3561.13" ytl="940.39" xbr="4070.15" ybr="2572.27" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="0.00" ytl="135.00" xbr="127.00" ybr="715.00" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="0.00" ytl="595.00" xbr="217.00" ybr="1935.00" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="167.00" ytl="115.00" xbr="717.00" ybr="1485.00" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="964.97" ytl="449.71" xbr="1327.13" ybr="1276.92" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="1133.70" ytl="453.83" xbr="1660.48" ybr="1914.82" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="1512.32" ytl="322.14" xbr="1911.52" ybr="1886.01" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="1759.25" ytl="404.45" xbr="2294.26" ybr="1869.55" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="1788.06" ytl="692.53" xbr="2323.07" ybr="2169.97" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="2306.61" ytl="671.95" xbr="2767.54" ybr="2104.13" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="2446.53" ytl="1029.99" xbr="3121.47" ybr="2795.52" z_order="0">
+    </box>
+    <box label="MotorCycle" source="manual" occluded="0" xtl="0.00" ytl="2857.52" xbr="603.54" ybr="4676.68" z_order="0">
+    </box>
+    <box label="Person" source="manual" occluded="0" xtl="0.00" ytl="2520.31" xbr="603.54" ybr="4232.99" z_order="0">
+    </box>
+  </image>
+</annotations>
