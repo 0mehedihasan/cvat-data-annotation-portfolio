@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4366754</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-14 21:04:47.892045+00:00</created>
+      <updated>2026-08-14 21:21:56.112450+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4364613</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/4366754/dataset/export/api/jobs/4366754</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>research6</username>
+        <email>tiatarek97@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Bicycle</name>
+          <color>#004040</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>MotorCycle</name>
+          <color>#80a0a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Car</name>
+          <color>#2080c0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Person</name>
+          <color>#c06060</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>circle</name>
+          <color>#6f883c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>square</name>
+          <color>#afdd95</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-08-14 21:22:08.256297+00:00</dumped>
+  </meta>
+  <image id="0" name="pexels-mikhail-nilov-7828179.jpg" width="4000" height="6000">
+    <polygon label="circle" source="manual" occluded="0" points="2209.24,2513.24;2276.62,2518.77;2347.32,2541.96;2413.30,2579.60;2481.90,2648.40;2525.00,2733.20;2540.10,2811.10;2539.53,2894.35;2520.75,2959.53;2493.14,3009.24;2456.68,3058.95;2421.33,3092.09;2361.68,3131.85;2304.24,3156.16;2239.06,3166.10;2178.31,3166.10;2103.19,3147.32;2059.00,3125.23;2017.03,3095.40;1976.15,3060.05;1946.33,3028.02;1912.80,2959.00;1891.50,2876.70;1892.20,2788.30;1914.29,2714.29;1950.75,2648.01;1997.14,2592.78;2056.79,2555.22;2126.39,2525.39;2169.47,2515.45" z_order="0">
+    </polygon>
+    <polygon label="circle" source="manual" occluded="0" points="1740.12,3558.69;1761.00,3559.20;1781.34,3563.54;1803.16,3570.32;1820.62,3578.57;1844.38,3593.60;1860.39,3608.64;1878.33,3629.97;1891.42,3652.77;1902.58,3681.86;1907.43,3705.14;1907.43,3739.57;1904.03,3765.76;1892.88,3795.83;1875.42,3820.07;1857.96,3839.96;1829.83,3861.30;1799.77,3876.81;1776.97,3883.12;1747.39,3888.94;1715.39,3887.48;1675.62,3875.84;1647.98,3861.30;1623.25,3839.96;1597.54,3805.53;1582.51,3771.09;1576.69,3737.63;1574.27,3721.14;1577.80,3707.00;1577.10,3697.70;1580.08,3695.93;1582.30,3679.90;1593.66,3652.77;1602.88,3633.85;1618.88,3613.49;1634.88,3597.97;1656.22,3582.45;1680.81,3570.91;1702.87,3564.36;1721.20,3560.90" z_order="0">
+    </polygon>
+    <polygon label="square" source="manual" occluded="0" points="1411.48,4554.55;1394.21,4951.80;1390.75,5172.87;2551.40,5155.60;2551.40,4934.53;2499.58,4754.90;1694.73,4747.99;1687.82,4551.10" z_order="0">
+    </polygon>
+    <polygon label="square" source="manual" occluded="0" points="1706.47,3886.02;1748.00,3889.20;1802.90,3876.20;1857.70,3840.60;1895.00,3792.00;1907.00,3747.20;1904.38,3687.06;2068.79,3689.16;2089.73,3803.30;2555.30,3809.48;2588.70,3923.70;2548.07,4755.17;2489.01,4755.17;1699.77,4746.68;1703.96,3881.52" z_order="0">
+    </polygon>
+    <polygon label="square" source="manual" occluded="0" points="2079.18,3137.81;2101.50,3147.38;2170.83,3165.71;2236.97,3166.50;2304.71,3157.74;2363.68,3132.24;2415.48,3096.37;2460.91,3054.14;2662.53,3061.31;2723.26,3176.46;2716.00,3799.90;2551.84,3802.77;2091.14,3805.71;2059.90,3605.10;2057.67,3124.11;2079.50,3135.74" z_order="0">
+    </polygon>
+  </image>
+</annotations>
