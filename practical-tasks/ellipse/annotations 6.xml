@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4371683</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-16 17:48:15.962786+00:00</created>
+      <updated>2026-08-16 17:54:04.023830+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4369542</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/4371683/dataset/export/api/jobs/4371683</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>research6</username>
+        <email>tiatarek97@gmail.com</email>
+      </owner>
+      <assignee>
+        <username>research6</username>
+        <email>tiatarek97@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>Bicycle</name>
+          <color>#004040</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>MotorCycle</name>
+          <color>#80a0a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Car</name>
+          <color>#2080c0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Person</name>
+          <color>#c06060</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>circle</name>
+          <color>#6f883c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>square</name>
+          <color>#afdd95</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Auto_rikhswa</name>
+          <color>#a3a046</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>apple</name>
+          <color>#400080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>sklenton</name>
+          <color>#55724a</color>
+          <type>skeleton</type>
+          <attributes>
+          </attributes>
+          <svg>&lt;line x1="55.85284423828125" y1="69.7324447631836" x2="59.36454772949219" y2="48.662208557128906" data-type="edge" data-node-from="15" data-node-to="11"&gt;&lt;/line&gt;
+&lt;line x1="54.01337814331055" y1="91.47157287597656" x2="55.85284423828125" y2="69.7324447631836" data-type="edge" data-node-from="14" data-node-to="15"&gt;&lt;/line&gt;
+&lt;line x1="48.3277587890625" y1="69.23076629638672" x2="48.99665451049805" y2="91.47157287597656" data-type="edge" data-node-from="12" data-node-to="13"&gt;&lt;/line&gt;
+&lt;line x1="45.1505012512207" y1="48.4949836730957" x2="48.3277587890625" y2="69.23076629638672" data-type="edge" data-node-from="10" data-node-to="12"&gt;&lt;/line&gt;
+&lt;line x1="59.36454772949219" y1="48.662208557128906" x2="61.371238708496094" y2="27.59197235107422" data-type="edge" data-node-from="11" data-node-to="4"&gt;&lt;/line&gt;
+&lt;line x1="45.1505012512207" y1="48.4949836730957" x2="45.317726135253906" y2="25.91973304748535" data-type="edge" data-node-from="10" data-node-to="3"&gt;&lt;/line&gt;
+&lt;line x1="59.36454772949219" y1="48.662208557128906" x2="52.00668716430664" y2="50.1672248840332" data-type="edge" data-node-from="11" data-node-to="9"&gt;&lt;/line&gt;
+&lt;line x1="45.1505012512207" y1="48.4949836730957" x2="52.00668716430664" y2="50.1672248840332" data-type="edge" data-node-from="10" data-node-to="9"&gt;&lt;/line&gt;
+&lt;line x1="61.371238708496094" y1="27.59197235107422" x2="61.87290954589844" y2="40.1337776184082" data-type="edge" data-node-from="4" data-node-to="6"&gt;&lt;/line&gt;
+&lt;line x1="61.87290954589844" y1="56.85618591308594" x2="61.87290954589844" y2="40.1337776184082" data-type="edge" data-node-from="8" data-node-to="6"&gt;&lt;/line&gt;
+&lt;line x1="43.14381408691406" y1="55.18394470214844" x2="42.97658920288086" y2="39.79933166503906" data-type="edge" data-node-from="7" data-node-to="5"&gt;&lt;/line&gt;
+&lt;line x1="45.317726135253906" y1="25.91973304748535" x2="42.97658920288086" y2="39.79933166503906" data-type="edge" data-node-from="3" data-node-to="5"&gt;&lt;/line&gt;
+&lt;line x1="61.371238708496094" y1="27.59197235107422" x2="53.5117073059082" y2="24.08026695251465" data-type="edge" data-node-from="4" data-node-to="2"&gt;&lt;/line&gt;
+&lt;line x1="45.317726135253906" y1="25.91973304748535" x2="53.5117073059082" y2="24.08026695251465" data-type="edge" data-node-from="3" data-node-to="2"&gt;&lt;/line&gt;
+&lt;line x1="53.67892837524414" y1="14.381271362304688" x2="53.5117073059082" y2="24.08026695251465" data-type="edge" data-node-from="1" data-node-to="2"&gt;&lt;/line&gt;
+&lt;circle r="0.75" cx="53.67892837524414" cy="14.381271362304688" data-type="element node" data-element-id="1" data-node-id="1" data-label-name="head"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="53.5117073059082" cy="24.08026695251465" data-type="element node" data-element-id="2" data-node-id="2" data-label-name="neck"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="45.317726135253906" cy="25.91973304748535" data-type="element node" data-element-id="3" data-node-id="3" data-label-name="L_Shoulder"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="61.371238708496094" cy="27.59197235107422" data-type="element node" data-element-id="4" data-node-id="4" data-label-name="R_Shoulder"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="42.97658920288086" cy="39.79933166503906" data-type="element node" data-element-id="5" data-node-id="5" data-label-name="L_Elbow"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="61.87290954589844" cy="40.1337776184082" data-type="element node" data-element-id="6" data-node-id="6" data-label-name="R_Elbow"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="43.14381408691406" cy="55.18394470214844" data-type="element node" data-element-id="7" data-node-id="7" data-label-name="L_Hand"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="61.87290954589844" cy="56.85618591308594" data-type="element node" data-element-id="8" data-node-id="8" data-label-name="R_Hand"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="52.00668716430664" cy="50.1672248840332" data-type="element node" data-element-id="9" data-node-id="9" data-label-name="Mid_hip"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="45.1505012512207" cy="48.4949836730957" data-type="element node" data-element-id="10" data-node-id="10" data-label-name="L_Hip"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="59.36454772949219" cy="48.662208557128906" data-type="element node" data-element-id="11" data-node-id="11" data-label-name="R_Hip"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="48.3277587890625" cy="69.23076629638672" data-type="element node" data-element-id="12" data-node-id="12" data-label-name="L_Knee"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="48.99665451049805" cy="91.47157287597656" data-type="element node" data-element-id="13" data-node-id="13" data-label-name="L_foot"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="54.01337814331055" cy="91.47157287597656" data-type="element node" data-element-id="14" data-node-id="14" data-label-name="R_foot"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="55.85284423828125" cy="69.7324447631836" data-type="element node" data-element-id="15" data-node-id="15" data-label-name="R_Knee"&gt;&lt;/circle&gt;</svg>
+        </label>
+        <label>
+          <name>head</name>
+          <color>#ba9109</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>neck</name>
+          <color>#f7af42</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>L_Shoulder</name>
+          <color>#9f4334</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>R_Shoulder</name>
+          <color>#2b5d46</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>L_Elbow</name>
+          <color>#af5d30</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>R_Elbow</name>
+          <color>#855065</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>L_Hand</name>
+          <color>#389a42</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>R_Hand</name>
+          <color>#f0ae3f</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>Mid_hip</name>
+          <color>#fe0f76</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>L_Hip</name>
+          <color>#2b8c5a</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>R_Hip</name>
+          <color>#17bb6c</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>L_Knee</name>
+          <color>#741b65</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>L_foot</name>
+          <color>#99cde9</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>R_foot</name>
+          <color>#f84096</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>R_Knee</name>
+          <color>#c29c8c</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>sklenton</parent>
+        </label>
+        <label>
+          <name>plate</name>
+          <color>#a0a0a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-08-16 17:54:24.024467+00:00</dumped>
+  </meta>
+  <image id="0" name="Ellipse.jpeg" width="640" height="427">
+    <ellipse label="plate" source="manual" occluded="0" cx="319.60" cy="218.50" rx="208.10" ry="142.60" z_order="0">
+    </ellipse>
+  </image>
+</annotations>
